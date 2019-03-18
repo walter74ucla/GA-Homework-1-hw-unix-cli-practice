@@ -30,6 +30,8 @@ Fundamentals, class, or that you find on your own.
 
 * Paste the answer to each numbered question (i.e. the command(s) that accomplished the task) in `commands.txt` once you get it to work.
 
+* Remember, you can learn about any Unix command by typing `man` and then the command name.  E.g., `man ls`.  Type `Q` to get out of the Manual page ("man page") viewer.
+
 
 ## Part I: Set the Scene
 
@@ -166,7 +168,8 @@ Want an extra challenge?  In many assignments or labs, you'll find a "Hungry for
 * Try applying one command to **all** files in a single directory (where necessery)
 * Try applying one command to **all files that match a pattern**.
 * Try using a mix of absolute and relative paths.
-* Read about the famous text editor "vi" online.  It's included with  and see if you can use it to create and edit a small ["Hello, World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) JavaScript program
+
+* If you're a glutton for punishment, read about the famous text editor "vi" online.  It's included with all Unix systems, and although it has a steep learning curve, it is an incredibly powerful text editor.  You can run a tutorial program that will teach you some `vi`/`vim` commands by typing `vimtutor` in your Terminal.  See if you can use it to create and edit a small ["Hello, World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) JavaScript program!
 
 <br>
 <hr>
