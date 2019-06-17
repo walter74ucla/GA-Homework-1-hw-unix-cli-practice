@@ -5,7 +5,7 @@
 Class: **wdi-cc**<br>
 Creator: Thom Page <br>
 Modified by: Kristyn Bryan and Reuben Ayres <br>
-Topics: Terminal, boolean expressions, reading code, while loops, for loops <br>
+Topics: Getting familiar with the Unix Command Line <br>
 
 ---
 
@@ -154,6 +154,14 @@ $ git commit -m "Completed homework assignment"
 $ git push origin master
 ```
 
+# Homework submission
+
+**Good job! You're done!**
+
+When you've got your homework all done, just send a Slack message to your instructor.  Going forward, we will be submitting homework using a "pull request" process in git.  Your instructor will walk you through that submission process first thing in the morning.
+
+---
+
 # "Hungry for more?"
 
 Want an extra challenge?  In many assignments or labs, you'll find a "Hungry for More" section which is designed for further learning. If they seem too overwhelming you can absolutely skip them. They won't factor into your homework score, and you will be totally fine for class as long as you complete and understand the main assignment up to that point.  What they _will_ do is encourage you to go deeper, explore, and push yourself. And that will pay off big time in the long run.  Below is the "hungry for more" section for this assignment.
@@ -172,8 +180,4 @@ Want an extra challenge?  In many assignments or labs, you'll find a "Hungry for
 * If you're a glutton for punishment, read about the famous text editor "vi" online.  It's included with all Unix systems, and although it has a steep learning curve, it is an incredibly powerful text editor.  You can run a tutorial program that will teach you some `vi`/`vim` commands by typing `vimtutor` in your Terminal.  See if you can use it to create and edit a small ["Hello, World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) JavaScript program!
 
 <br>
-<hr>
 
-# Homework submission
-
-When you've got your homework all done, just send a Slack message to your instructor.  Going forward, we will be submitting homework using a "pull request" process in git.  Your instructor will show you the submission process first thing in the morning.
