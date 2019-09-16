@@ -2,7 +2,7 @@
 
 #  Homework: Unix CLI Practice
 
-Class: **wdi-cc**<br>
+Class: **sei-cc**<br>
 Creator: Thom Page <br>
 Modified by: Kristyn Bryan and Reuben Ayres <br>
 Topics: Getting familiar with the Unix Command Line <br>
@@ -26,9 +26,9 @@ Fundamentals, class, or that you find on your own.
 
 * Make a directory in the folder created by this clone called `star_wars`.  
 
-* Create a file called `commands.txt`.
+* Create a file called `commands.txt`.  You will now have the `commands.txt` file and the `star_wars` directory and this `README.md` file side by side in the directory that was created when you cloned this assignment, along with this README.md file.
 
-* Paste the answer to each numbered question (i.e. the command(s) that accomplished the task) in `commands.txt` once you get it to work.
+* Paste the answer to each numbered question (i.e. the command(s) that accomplished the task) in `commands.txt` once you get it to work.  
 
 * Remember, you can learn about any Unix command by typing `man` and then the command name.  E.g., `man ls`.  Type `Q` to get out of the Manual page ("man page") viewer.
 
