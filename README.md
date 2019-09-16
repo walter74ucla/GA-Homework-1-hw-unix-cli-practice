@@ -24,11 +24,15 @@ Fundamentals, class, or that you find on your own.
 
 * Open the **Terminal app**
 
-* Make a directory in the folder created by this clone called `star_wars`.  
+* Your instructor will show you how to clone this repository, which will create a directory with the same name as your repo. 
 
-* Create a file called `commands.txt`.  You will now have the `commands.txt` file and the `star_wars` directory and this `README.md` file side by side in the directory that was created when you cloned this assignment, along with this README.md file.
+* `cd` into that directory.
 
-* Paste the answer to each numbered question (i.e. the command(s) that accomplished the task) in `commands.txt` once you get it to work.  
+* In that directory, create another directory called called `star_wars`.  
+
+* Also in that directory, create a file called `commands.txt`.  You will now have the `commands.txt` file and the `star_wars` directory and this `README.md` file side by side in the directory that was created when you cloned this assignment, along with this README.md file.
+
+* Paste the answer to each numbered question (i.e. the command(s) that accomplished the task) into `commands.txt` once you get it to work.  
 
 * Remember, you can learn about any Unix command by typing `man` and then the command name.  E.g., `man ls`.  Type `Q` to get out of the Manual page ("man page") viewer.
 
