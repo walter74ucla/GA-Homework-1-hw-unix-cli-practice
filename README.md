@@ -181,7 +181,9 @@ Want an extra challenge?  In many assignments or labs, you'll find a "Hungry for
 * Try applying one command to **all files that match a pattern**.
 * Try using a mix of absolute and relative paths.
 
-* If you're a glutton for punishment, read about the famous text editor "vi" online.  It's included with all Unix systems, and although it has a steep learning curve, it is an incredibly powerful text editor.  You can run a tutorial program that will teach you some `vi`/`vim` commands by typing `vimtutor` in your Terminal.  See if you can use it to create and edit a small ["Hello, World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) JavaScript program!
+### The grandfather of all modern text editors: `vi` (or [`vim`](https://github.com/vim/vim))
 
-<br>
+* If you're a glutton for punishment, read about the famous text editor ["vi"](https://en.wikipedia.org/wiki/Vi) online.  It's included with all Unix systems, and although it has a steep learning curve, it is an incredibly powerful text editor.  You can run a tutorial program that will teach you the essential `vi`/`vim` commands by typing `vimtutor` in your Terminal.  See if you can use it to create and edit a small ["Hello, World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) JavaScript program!
+
+
 
